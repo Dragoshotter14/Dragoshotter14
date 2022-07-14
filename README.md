@@ -1,7 +1,7 @@
 ## Oi eu sou o Emerson da Silva Vianna
 
-- 🌱 Estudando HTML5 CSS3 JS React-Native e Sistemas Operacionais
-- 📫 Contate-me no email: emersonvianna0@protonmail.com
+- 🌱 Estudando HTML5 CSS3 JS React-Native Java e Sistemas Operacionais
+- 📫 Contate-me no email: emersonvianna0@tutanota.com
 
 <div align="center">
   <a href="https://github.com/Dragoshotter14">
