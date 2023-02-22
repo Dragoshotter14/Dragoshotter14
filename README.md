@@ -1,6 +1,6 @@
 ## Hi I'm Emerson da Silva Vianna
 
-- 🌱  Studying HTML5 CSS3 JS React-Native Java and Operating Systems
+- 🌱  Studying Java, SpringBoot, MongoDB, RabbitMQ and Microservices
 - 📫  Contact me at: emersonvianna0@tutanota.com
 
 ##
