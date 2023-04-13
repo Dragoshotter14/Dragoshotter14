@@ -2,7 +2,7 @@
 ## <h3 align="center">Hi! I'm Emerson da Silva Vianna</h3>
 ##
 
-- 🌱  Studying Java, SpringBoot, MongoDB, RabbitMQ and Microservices
+- 🌱  Java | SpringBoot | MongoDB | RabbitMQ | Microservices | Docker
 - 📫  Contact me at: emersonvianna0@tutanota.com
 
 ##
