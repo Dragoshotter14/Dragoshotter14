@@ -13,10 +13,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragoshotter14&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+## <h3>Technologies:</h3>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Emerson-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+   <img align="center" alt="Emerson-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+   <img align="center" alt="Emerson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+   <img align="center" alt="Emerson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
 </div>
 
 # <h3>About me:</h3>
