@@ -21,13 +21,8 @@
    <img align="center" alt="Emerson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img align="center" alt="Emerson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
 </div>
-
-# <h3>About me:</h3>
-  I consider myself agile and consistent in learning a new technology and highly adaptable to change, ready to overcome any challenge!
-If I could define myself in 3 words, they would certainly be: optimistic, persevering, and hardworking!
   
-##
-  
+#
  <div>
    </a>
    <a href="https://www.linkedin.com/in/emerson-silva-vianna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
