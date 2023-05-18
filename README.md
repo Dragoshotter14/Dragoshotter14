@@ -5,7 +5,7 @@
 #
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-## <h3 align="center">Hi! I'm Emerson da Silva Vianna</h3>
+## <h3 align="center">Hi! I'm Emerson da Silva Vianna 👋</h3>
 ##
 
 - 🌱  Java | SpringBoot | MongoDB | RabbitMQ | Microservices | Docker
@@ -19,7 +19,7 @@
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dragoshotter14&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## <h3>Technologies:</h3>
+## <h3>🛠️ Technologies:</h3>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Emerson-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
