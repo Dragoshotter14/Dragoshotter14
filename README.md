@@ -41,4 +41,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dragoshotter14}/count.svg" /></p> 
 <br></div>
 
+![snake gif](https://github.com/Dragoshotter14/Dragoshotter14/blob/output/github-contribution-grid-snake.gif)
+
     
