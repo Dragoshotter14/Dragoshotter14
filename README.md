@@ -45,4 +45,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dragoshotter14}/count.svg" /></p> 
 <br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dragoshotter14&theme=high-contrast)](https://github.com/Dragoshotter14/github-readme-activity-graph)    
